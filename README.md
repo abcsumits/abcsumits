@@ -19,4 +19,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abcsumits&show_icons=true&locale=en" alt="abcsumits" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abcsumits&" alt="abcsumits" /></p>
