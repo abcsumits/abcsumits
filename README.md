@@ -1,6 +1,6 @@
 [![MasterHead](sumit.gif)](https://abcsumits.netlify.app/)
 <h1 align="center">Hi 👋, I'm Sumit Singh</h1>
-<h3 align="center">Dynamic problem-solver, merging tech, creativity, collaboration.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abcsumits&label=Profile%20views&color=0e75b6&style=flat" alt="abcsumits" /> </p>
 
